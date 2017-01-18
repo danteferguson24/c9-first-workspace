@@ -9,8 +9,8 @@
 /* 2a. Change the size of your image to 200px height and width*/
 /* 2b. Give image1 a border */
 #image1 {
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 100px;
 }
 
 /* 3. Size image2 to make it twice as large as image1 */
@@ -42,7 +42,7 @@
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-large;
 	font-weight: bold;
-	background-color: #E3F0FB;
+	background-color:  #E3F0FB;
 	border-radius: 4px;
 	padding: 10px;
 	text-align: center;
